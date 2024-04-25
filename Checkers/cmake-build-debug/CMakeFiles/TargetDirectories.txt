@@ -1,0 +1,3 @@
+/Users/Neponel/CLionProjects/Checkers/cmake-build-debug/CMakeFiles/Checkers.dir
+/Users/Neponel/CLionProjects/Checkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Neponel/CLionProjects/Checkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
